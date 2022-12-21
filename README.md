@@ -4,11 +4,11 @@
 
 ## Description
 
-This application is meant to simulate an actual business website's backend process by creating, storing and manipulating product data.
+This application is meant to simulate an actual business website's backend process by creating, storing and manipulating product data. I created this project to learn more about using mysql and express.js together as well as testing my application using Insomnia. An application like this will keep track of an online store's stock as well as the prices of each item.
 
 ## Usage
 
-Use following commands to run the application:
+Use the following commands to run the application:
 "npm run seed" and "npm run start"
 
 Screenshot:
