@@ -15,10 +15,11 @@ res.json(categoriesData)
 } catch (error) {
     console.log(error)
   }
+  console.log("Getting all categories")
   // be sure to include its associated Products
 });
 
-router.get('/:id', async(req, res) => {
+router.get('/:id', async (req, res) => {
   // find one category by its `id` value
   // be sure to include its associated Products
   try {
